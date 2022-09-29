@@ -25,7 +25,7 @@ function displayDate() {
     })
     .then(data => {
 
-      console.log(data.photos)
+      console.log(data.img)
 
 
       for (var i = 0; i < 9; i++) {
